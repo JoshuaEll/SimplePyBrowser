@@ -5,7 +5,6 @@
 ####################################################################################################
 
 import sys
-from turtle import forward
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWebEngineWidgets import *
